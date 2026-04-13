@@ -137,7 +137,7 @@ body {
             <img src="./C.jpg" alt="项目C照片">
         </div>
         <div class="project-description">
-            <p>这是项目三的详细文字说明。</p>
+            <p>智能循迹小车，以51单片机为核心。</p>
             <p></p>
         </div>
     </div>
