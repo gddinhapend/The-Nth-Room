@@ -146,7 +146,7 @@ body {
     </div>
 
     <div class="project-card">
-        <a href="https://your-project4-link.com" class="project-title">测向机</a>
+        <a href="https://tgoe-1.github.io/cxj/" class="project-title">测向机</a>
         <div class="project-image-container">
             <img src="./picture/侧向机.jpg" alt="测向机">
         </div>
