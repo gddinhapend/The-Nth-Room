@@ -135,7 +135,7 @@ body {
     </div>
 
     <div class="project-card">
-        <a href="https://your-project3-link.com" class="project-title">智能小车</a>
+        <a href="https://tgoe-1.github.io/car/" class="project-title">智能小车</a>
         <div class="project-image-container">
             <img src="./picture/智能小车.jpg" alt="智能小车">
         </div>
