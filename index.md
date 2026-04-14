@@ -124,7 +124,7 @@ body {
     </div>
 
     <div class="project-card">
-        <a href="https://your-project2-link.com" class="project-title">信号源</a>
+        <a href="https://tgoe-1.github.io/xhy/" class="project-title">信号源</a>
         <div class="project-image-container">
             <img src="./picture/信号源.jpg" alt="信号源">
         </div>
