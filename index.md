@@ -113,7 +113,7 @@ body {
 <div class="grid-container">
 
     <div class="project-card">
-        <a href="https://your-project1-link.com" class="project-title">多旋翼无人机</a>
+        <a href="https://tgoe-1.github.io/dxy/" class="project-title">多旋翼无人机</a>
         <div class="project-image-container">
             <img src="./picture/电赛无人机.jpg" alt="多旋翼无人机">
         </div>
